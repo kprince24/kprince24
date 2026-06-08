@@ -1,13 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=Prince&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=MnC%20Student%20%7C%20CP%20Enthusiast%20%7C%20Backend%20Explorer&descAlignY=58&descSize=20" />
-
-</div>
-
----
-
-<div align="center">
-
 ### Hey 👋 I'm Prince
 
 **Competitive Programmer • DSA Enthusiast • Backend Explorer 🚀**
